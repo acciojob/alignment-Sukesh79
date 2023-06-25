@@ -30,6 +30,6 @@ td{
 .blue{
     background-color: blue;
 }
-#t-image{
+#t-image img{
 	object-fit: cover;
 }
